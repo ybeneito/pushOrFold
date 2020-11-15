@@ -1,40 +1,25 @@
 {
   "files": {
     "main.css": "/pushOrFold/static/css/main.4a4137e4.chunk.css",
-    "main.js": "/pushOrFold/static/js/main.1c3743a4.chunk.js",
-    "main.js.map": "/pushOrFold/static/js/main.1c3743a4.chunk.js.map",
+    "main.js": "/pushOrFold/static/js/main.3d7b7608.chunk.js",
+    "main.js.map": "/pushOrFold/static/js/main.3d7b7608.chunk.js.map",
     "runtime-main.js": "/pushOrFold/static/js/runtime-main.fa9e1cef.js",
     "runtime-main.js.map": "/pushOrFold/static/js/runtime-main.fa9e1cef.js.map",
     "static/css/2.43b2b750.chunk.css": "/pushOrFold/static/css/2.43b2b750.chunk.css",
-    "static/js/2.8fbea7af.chunk.js": "/pushOrFold/static/js/2.8fbea7af.chunk.js",
-    "static/js/2.8fbea7af.chunk.js.map": "/pushOrFold/static/js/2.8fbea7af.chunk.js.map",
+    "static/js/2.a3cc08a3.chunk.js": "/pushOrFold/static/js/2.a3cc08a3.chunk.js",
+    "static/js/2.a3cc08a3.chunk.js.map": "/pushOrFold/static/js/2.a3cc08a3.chunk.js.map",
     "index.html": "/pushOrFold/index.html",
     "static/css/2.43b2b750.chunk.css.map": "/pushOrFold/static/css/2.43b2b750.chunk.css.map",
     "static/css/main.4a4137e4.chunk.css.map": "/pushOrFold/static/css/main.4a4137e4.chunk.css.map",
-    "static/js/2.8fbea7af.chunk.js.LICENSE.txt": "/pushOrFold/static/js/2.8fbea7af.chunk.js.LICENSE.txt",
+    "static/js/2.a3cc08a3.chunk.js.LICENSE.txt": "/pushOrFold/static/js/2.a3cc08a3.chunk.js.LICENSE.txt",
     "static/media/6joueurs.681a4d12.png": "/pushOrFold/static/media/6joueurs.681a4d12.png",
-    "static/media/9joueurs.a5e03cf9.png": "/pushOrFold/static/media/9joueurs.a5e03cf9.png",
-    "static/media/tableau910.71939051.png": "/pushOrFold/static/media/tableau910.71939051.png",
-    "static/media/tableau911.147c175d.png": "/pushOrFold/static/media/tableau911.147c175d.png",
-    "static/media/tableau912.9f578c78.png": "/pushOrFold/static/media/tableau912.9f578c78.png",
-    "static/media/tableau913.2298f04a.png": "/pushOrFold/static/media/tableau913.2298f04a.png",
-    "static/media/tableau914.0cdb500c.png": "/pushOrFold/static/media/tableau914.0cdb500c.png",
-    "static/media/tableau915.d0d49fc5.png": "/pushOrFold/static/media/tableau915.d0d49fc5.png",
-    "static/media/tableau916.05500006.png": "/pushOrFold/static/media/tableau916.05500006.png",
-    "static/media/tableau92.153c1dbd.png": "/pushOrFold/static/media/tableau92.153c1dbd.png",
-    "static/media/tableau93.9ff94993.png": "/pushOrFold/static/media/tableau93.9ff94993.png",
-    "static/media/tableau94.f4b79e6d.png": "/pushOrFold/static/media/tableau94.f4b79e6d.png",
-    "static/media/tableau95.16346730.png": "/pushOrFold/static/media/tableau95.16346730.png",
-    "static/media/tableau96.d2b92955.png": "/pushOrFold/static/media/tableau96.d2b92955.png",
-    "static/media/tableau97.6540670b.png": "/pushOrFold/static/media/tableau97.6540670b.png",
-    "static/media/tableau98.aca6bc76.png": "/pushOrFold/static/media/tableau98.aca6bc76.png",
-    "static/media/tableau99.719d460a.png": "/pushOrFold/static/media/tableau99.719d460a.png"
+    "static/media/9joueurs.a5e03cf9.png": "/pushOrFold/static/media/9joueurs.a5e03cf9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fa9e1cef.js",
     "static/css/2.43b2b750.chunk.css",
-    "static/js/2.8fbea7af.chunk.js",
+    "static/js/2.a3cc08a3.chunk.js",
     "static/css/main.4a4137e4.chunk.css",
-    "static/js/main.1c3743a4.chunk.js"
+    "static/js/main.3d7b7608.chunk.js"
   ]
 }
